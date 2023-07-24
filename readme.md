@@ -8,6 +8,7 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
 1. Fork 这个仓库
 
+
 1. 登录 [GLaDOS][glados] 获取 Cookie
 
 1. 添加 Cookie 到 Secret `GLADOS`
